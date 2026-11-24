@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+.next/
+out/
+.api-export-backup/
+public/static-data/
+
+# Local SQLite database and confidential uploads
+data/*.db
+data/*.db-wal
+data/*.db-shm
+data/uploads/*
+!data/uploads/.gitkeep
+
+# Environment secrets
+.env
+.env.local
+.env.production.local
+
+# Logs and OS artifacts
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <rect width="1200" height="675" fill="#141414"/>
+  <g stroke="#262522" stroke-width="1">
+    <line x1="0" y1="135" x2="1200" y2="135"/>
+    <line x1="0" y1="270" x2="1200" y2="270"/>
+    <line x1="0" y1="405" x2="1200" y2="405"/>
+    <line x1="0" y1="540" x2="1200" y2="540"/>
+  </g>
+  <rect x="44" y="38" width="1112" height="36" fill="#21201D" stroke="#3D3B36"/>
+  <rect x="44" y="38" width="14" height="36" fill="#9E1B1B"/>
+  <text x="74" y="61" fill="#F7F6F2" font-family="monospace" font-size="13" letter-spacing="1.8">ARSIP VISUAL 05 // SKEMA INBRENG SAHAM SERI B &amp; C KE HOLDING OPERASIONAL (PP NO. 15/2025)</text>
+
+  <!-- Flow diagram -->
+  <rect x="56" y="136" width="290" height="194" fill="#21201D" stroke="#D8D4CB" stroke-width="1.5"/>
+  <text x="76" y="170" fill="#A6A197" font-family="monospace" font-size="11">SEBELUM MARET 2025</text>
+  <text x="76" y="202" fill="#F7F6F2" font-family="serif" font-size="22" font-weight="700">Kepemilikan Langsung</text>
+  <text x="76" y="230" fill="#F7F6F2" font-family="serif" font-size="22" font-weight="700">Negara RI</text>
+  <text x="76" y="264" fill="#B8B3A8" font-family="sans-serif" font-size="13">Kementerian BUMN bertindak</text>
+  <text x="76" y="284" fill="#B8B3A8" font-family="sans-serif" font-size="13">sebagai kuasa pemegang saham</text>
+  <text x="76" y="304" fill="#B8B3A8" font-family="sans-serif" font-size="13">atas ratusan entitas BUMN.</text>
+
+  <!-- Arrow 1 -->
+  <line x1="346" y1="233" x2="432" y2="233" stroke="#9E1B1B" stroke-width="3"/>
+  <polygon points="432,225 448,233 432,241" fill="#9E1B1B"/>
+
+  <rect x="448" y="118" width="320" height="232" fill="#9E1B1B"/>
+  <text x="470" y="152" fill="#F7F6F2" font-family="monospace" font-size="11" font-weight="700">MEKANISME PP NO. 15/2025</text>
+  <text x="470" y="186" fill="#FFFFFF" font-family="serif" font-size="24" font-weight="700">PT Biro Klasifikasi</text>
+  <text x="470" y="214" fill="#FFFFFF" font-family="serif" font-size="24" font-weight="700">Indonesia (BKI)</text>
+  <line x1="470" y1="232" x2="744" y2="232" stroke="#D98A8A"/>
+  <text x="470" y="260" fill="#FBF0F0" font-family="sans-serif" font-size="13">Ditunjuk sebagai kendaraan</text>
+  <text x="470" y="280" fill="#FBF0F0" font-family="sans-serif" font-size="13">Holding Operasional (DAM)</text>
+  <text x="470" y="300" fill="#FBF0F0" font-family="sans-serif" font-size="13">penerima inbreng Saham Seri B</text>
+  <text x="470" y="320" fill="#FBF0F0" font-family="sans-serif" font-size="13">&amp; Seri C ratusan BUMN.</text>
+
+  <!-- Arrow 2 -->
+  <line x1="768" y1="233" x2="854" y2="233" stroke="#D8D4CB" stroke-width="3"/>
+  <polygon points="854,225 870,233 854,241" fill="#D8D4CB"/>
+
+  <rect x="870" y="136" width="286" height="194" fill="#21201D" stroke="#163A5F" stroke-width="2"/>
+  <text x="890" y="170" fill="#7DA8D6" font-family="monospace" font-size="11">KONTROL RESIDUAL NEGARA</text>
+  <text x="890" y="202" fill="#F7F6F2" font-family="serif" font-size="22" font-weight="700">Saham Seri A</text>
+  <text x="890" y="230" fill="#F7F6F2" font-family="serif" font-size="22" font-weight="700">Dwiwarna (1%)</text>
+  <text x="890" y="264" fill="#B8B3A8" font-family="sans-serif" font-size="13">Dipertahankan oleh negara via</text>
+  <text x="890" y="284" fill="#B8B3A8" font-family="sans-serif" font-size="13">BP BUMN (UU No. 16/2025)</text>
+  <text x="890" y="304" fill="#B8B3A8" font-family="sans-serif" font-size="13">untuk hak veto strategis.</text>
+
+  <!-- Bottom audit questions -->
+  <rect x="56" y="408" width="1100" height="210" fill="#1C1B18" stroke="#3D3B36"/>
+  <text x="82" y="446" fill="#9E1B1B" font-family="monospace" font-size="12" font-weight="700">PERTANYAAN KUNCI PENGAWASAN PUBLIK</text>
+  <text x="82" y="484" fill="#F7F6F2" font-family="sans-serif" font-size="15" font-weight="700">01. Bagaimana valuasi riil pengalihan saham (inbreng) dan dampaknya terhadap pemegang saham minoritas publik?</text>
+  <text x="82" y="522" fill="#F7F6F2" font-family="sans-serif" font-size="15" font-weight="700">02. Bagaimana penyelesaian ratusan utang-piutang antar-BUMN (inter-company liabilities) pascakonsolidasi?</text>
+  <text x="82" y="560" fill="#F7F6F2" font-family="sans-serif" font-size="15" font-weight="700">03. Bagaimana keterbukaan insentif pajak restrukturisasi dan daftar anak/cucu BUMN yang akan ditutup?</text>
+  <text x="82" y="596" fill="#A6A197" font-family="monospace" font-size="11">DOKUMEN ACUAN: PP NO. 15/2025 • UU NO. 1/2025 • UU NO. 16/2025</text>
+</svg>

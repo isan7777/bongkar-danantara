@@ -1,0 +1,36 @@
+{
+  "name": "bongkar-danantara",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Platform investigasi independen untuk pengawasan, dokumentasi, dan verifikasi pengelolaan aset dan investasi negara oleh Danantara Indonesia.",
+  "scripts": {
+    "dev": "next dev --port 3055",
+    "build": "next build",
+    "build:pages": "tsx scripts/build-pages.ts",
+    "start": "next start --port 3055",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "generate:pdfs": "tsx scripts/generate-pdfs.ts",
+    "seed": "tsx scripts/seed-db.ts",
+    "setup": "npm run generate:pdfs && npm run seed",
+    "test": "tsx --test tests/*.test.ts"
+  },
+  "dependencies": {
+    "lucide-react": "^0.511.0",
+    "next": "^15.3.3",
+    "pdf-lib": "^1.17.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "recharts": "^2.15.3",
+    "zod": "^3.25.42"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.8",
+    "@types/node": "^22.15.29",
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "tailwindcss": "^4.1.8",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}

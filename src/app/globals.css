@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-serif: var(--font-newsreader), Georgia, "Times New Roman", serif;
+  --font-sans: var(--font-plex-sans), -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, SFMono-Regular, monospace;
+  --color-paper: #f7f6f2;
+  --color-paper-alt: #efece6;
+  --color-ink: #0d0d0d;
+  --color-ink-secondary: #2f2e2b;
+  --color-ink-muted: #5f5b53;
+  --color-crimson: #9e1b1b;
+  --color-crimson-dark: #781111;
+  --color-crimson-tint: #faf0f0;
+  --color-rule: #d6d1c6;
+  --color-rule-strong: #141414;
+}
+
+html {
+  background-color: #f7f6f2;
+  color: #0d0d0d;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #f7f6f2;
+  color: #0d0d0d;
+  font-family: var(--font-plex-sans), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.font-editorial {
+  font-family: var(--font-newsreader), Georgia, serif;
+}
+
+.font-data {
+  font-family: var(--font-plex-mono), ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+.editorial-double-rule {
+  border-top: 3px solid #141414;
+  border-bottom: 1px solid #141414;
+}
+
+.editorial-prose p {
+  font-size: 1.075rem;
+  line-height: 1.78;
+  color: #1f1e1c;
+  margin-bottom: 1.25rem;
+}
+
+.editorial-prose p:last-child {
+  margin-bottom: 0;
+}
+
+/* Focus outline for keyboard accessibility */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid #9e1b1b;
+  outline-offset: 2px;
+}

@@ -1,0 +1,50 @@
+{
+  "DOC-UU-01-2025": {
+    "file_path": "/documents/DOC-UU-01-2025.pdf",
+    "file_size_kb": 6,
+    "sha256_hash": "d6dbb75cc87b0c20be92a7ba988d874951de42b531094d1dbbbd4483859689a0",
+    "page_count": 3
+  },
+  "DOC-PP-10-2025": {
+    "file_path": "/documents/DOC-PP-10-2025.pdf",
+    "file_size_kb": 4,
+    "sha256_hash": "33e9908d5f80b4a9c8667989be12c3a49f32e879d28e9bb083bd1b0f04fe95b0",
+    "page_count": 2
+  },
+  "DOC-KEPPRES-30-2025": {
+    "file_path": "/documents/DOC-KEPPRES-30-2025.pdf",
+    "file_size_kb": 4,
+    "sha256_hash": "6cd5cc17b4deb200e9deb1262b79336e1c031feb9716aa2992911cdf8c7cd044",
+    "page_count": 2
+  },
+  "DOC-BUMN-FIN-2024": {
+    "file_path": "/documents/DOC-BUMN-FIN-2024.pdf",
+    "file_size_kb": 4,
+    "sha256_hash": "43d59e528522fbcaa2bbad0cf297ce07f91977d320ddd45ba35c5dbc09ff346e",
+    "page_count": 2
+  },
+  "DOC-PP-15-2025": {
+    "file_path": "/documents/DOC-PP-15-2025.pdf",
+    "file_size_kb": 4,
+    "sha256_hash": "24ebdf472e89dda2cf25744e2b050c94bb97558ba4d6ca05b68cd70de1cd937d",
+    "page_count": 2
+  },
+  "DOC-UU-16-2025": {
+    "file_path": "/documents/DOC-UU-16-2025.pdf",
+    "file_size_kb": 4,
+    "sha256_hash": "fb7a57a55b5e5a092cb4f9c27119c5bc82393099a85e6fa60d43b8245c89595c",
+    "page_count": 2
+  },
+  "DOC-MK-2025-38": {
+    "file_path": "/documents/DOC-MK-2025-38.pdf",
+    "file_size_kb": 4,
+    "sha256_hash": "5ff254f50da91ebb72201dac0cf188859cf4d70c8c1ffbda068667fda662e248",
+    "page_count": 2
+  },
+  "DOC-AUDIT-2026-Q4": {
+    "file_path": "/documents/DOC-AUDIT-2026-Q4.pdf",
+    "file_size_kb": 4,
+    "sha256_hash": "9e0b8a3cf12e2c21d6d5896e93c5efcb32652d294ca09c27efbadb65ee500a20",
+    "page_count": 2
+  }
+}

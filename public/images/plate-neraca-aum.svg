@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <rect width="1200" height="675" fill="#121210"/>
+  <!-- Architectural grid lines -->
+  <g stroke="#262522" stroke-width="1">
+    <line x1="0" y1="112" x2="1200" y2="112"/>
+    <line x1="0" y1="225" x2="1200" y2="225"/>
+    <line x1="0" y1="337" x2="1200" y2="337"/>
+    <line x1="0" y1="450" x2="1200" y2="450"/>
+    <line x1="0" y1="562" x2="1200" y2="562"/>
+    <line x1="200" y1="0" x2="200" y2="675"/>
+    <line x1="400" y1="0" x2="400" y2="675"/>
+    <line x1="600" y1="0" x2="600" y2="675"/>
+    <line x1="800" y1="0" x2="800" y2="675"/>
+    <line x1="1000" y1="0" x2="1000" y2="675"/>
+  </g>
+  <!-- Top dossier band -->
+  <rect x="48" y="42" width="1104" height="36" fill="#1C1B18" stroke="#3D3B36"/>
+  <rect x="48" y="42" width="14" height="36" fill="#9E1B1B"/>
+  <text x="78" y="65" fill="#E8E4DC" font-family="monospace" font-size="14" letter-spacing="2">ARSIP VISUAL 01 // PERBANDINGAN KLAIM AUM VS NERACA 7 BUMN UTAMA (TAHUN BUKU 2024)</text>
+
+  <!-- Left column: Claim vs Consolidated Assets Bar Diagram -->
+  <text x="54" y="134" fill="#A6A197" font-family="monospace" font-size="12" letter-spacing="1.5">SKALA KLAIM VS ASET TERAUDIT (TRILIUN RUPIAH)</text>
+
+  <!-- Bar 1: Claim US$900B (~Rp14.700T) -->
+  <text x="54" y="176" fill="#F7F6F2" font-family="sans-serif" font-size="15" font-weight="700">Klaim Publik AUM (~US$900 Miliar)</text>
+  <rect x="54" y="188" width="660" height="34" fill="#2A2926" stroke="#52504A" stroke-dasharray="6 4"/>
+  <text x="726" y="210" fill="#E8E4DC" font-family="monospace" font-size="15" font-weight="700">~Rp14.700 T*</text>
+  <text x="54" y="240" fill="#9E1B1B" font-family="monospace" font-size="11">STATUS: BELUM TERVERIFIKASI RINCIAN VALUASI PER ENTITAS</text>
+
+  <!-- Bar 2: 7 Flagship BUMN Gross Assets (Rp9.353,4T) -->
+  <text x="54" y="286" fill="#F7F6F2" font-family="sans-serif" font-size="15" font-weight="700">Total Aset Bruto 7 BUMN Awal (FY 2024)</text>
+  <!-- Bank portion 59.3% -->
+  <rect x="54" y="298" width="249" height="34" fill="#9E1B1B"/>
+  <!-- Non-bank portion 40.7% -->
+  <rect x="303" y="298" width="171" height="34" fill="#D8D4CB"/>
+  <text x="488" y="320" fill="#F7F6F2" font-family="monospace" font-size="15" font-weight="700">Rp9.353,40 T</text>
+  <text x="54" y="352" fill="#E8E4DC" font-family="monospace" font-size="11">MERAH: 3 BANK HIMBARA Rp5.550,00 T (59,3% - MAYORITAS DANA NASABAH / DPK)</text>
+  <text x="54" y="370" fill="#A6A197" font-family="monospace" font-size="11">TERANG: PLN, PERTAMINA, MIND ID, TELKOM Rp3.803,40 T (40,7%)</text>
+
+  <!-- Bar 3: Modal Awal Statutory (Rp1.000T) -->
+  <text x="54" y="420" fill="#F7F6F2" font-family="sans-serif" font-size="15" font-weight="700">Modal Awal Minimum UU No. 1/2025</text>
+  <rect x="54" y="432" width="140" height="30" fill="#52504A"/>
+  <text x="208" y="452" fill="#E8E4DC" font-family="monospace" font-size="15" font-weight="700">Rp1.000 T</text>
+
+  <!-- Bar 4: Efisiensi APBN Allocation (Rp300T) -->
+  <text x="54" y="494" fill="#F7F6F2" font-family="sans-serif" font-size="15" font-weight="700">Alokasi Dana Efisiensi APBN Tahap Awal</text>
+  <rect x="54" y="506" width="68" height="28" fill="#8C6D46"/>
+  <text x="136" y="525" fill="#E8E4DC" font-family="monospace" font-size="15" font-weight="700">Rp300 T (~US$20 M)</text>
+
+  <!-- Bar 5: Dividend 2024 (Rp85.5T) -->
+  <text x="54" y="564" fill="#F7F6F2" font-family="sans-serif" font-size="15" font-weight="700">Realisasi Setoran Dividen Seluruh BUMN 2024</text>
+  <rect x="54" y="576" width="32" height="28" fill="#1E5C3A"/>
+  <text x="100" y="595" fill="#E8E4DC" font-family="monospace" font-size="15" font-weight="700">Rp85,5 T (7 BUMN: Rp81,7 T / 95,6%)</text>
+
+  <!-- Right forensic callout panel -->
+  <rect x="850" y="112" width="302" height="492" fill="#191816" stroke="#3D3B36"/>
+  <rect x="850" y="112" width="302" height="4" fill="#9E1B1B"/>
+  <text x="872" y="148" fill="#9E1B1B" font-family="monospace" font-size="12" font-weight="700" letter-spacing="1.5">CATATAN FORENSIK NERACA</text>
+  <line x1="872" y1="164" x2="1130" y2="164" stroke="#3D3B36"/>
+
+  <text x="872" y="198" fill="#F7F6F2" font-family="monospace" font-size="30" font-weight="700">59,3%</text>
+  <text x="872" y="220" fill="#B8B3A8" font-family="sans-serif" font-size="13">Porsi aset 7 BUMN yang</text>
+  <text x="872" y="238" fill="#B8B3A8" font-family="sans-serif" font-size="13">berada di 3 bank Himbara</text>
+  <text x="872" y="256" fill="#B8B3A8" font-family="sans-serif" font-size="13">(Mandiri, BRI, BNI).</text>
+
+  <line x1="872" y1="284" x2="1130" y2="284" stroke="#2C2B27"/>
+
+  <text x="872" y="324" fill="#F7F6F2" font-family="monospace" font-size="30" font-weight="700">Rp81,7 T</text>
+  <text x="872" y="346" fill="#B8B3A8" font-family="sans-serif" font-size="13">Dividen 7 BUMN 2024 yang</text>
+  <text x="872" y="364" fill="#B8B3A8" font-family="sans-serif" font-size="13">sebelumnya masuk langsung</text>
+  <text x="872" y="382" fill="#B8B3A8" font-family="sans-serif" font-size="13">ke kas APBN (PNBP KND).</text>
+
+  <line x1="872" y1="410" x2="1130" y2="410" stroke="#2C2B27"/>
+
+  <text x="872" y="446" fill="#E8E4DC" font-family="monospace" font-size="12" font-weight="700">SUMBER PRIMER:</text>
+  <text x="872" y="468" fill="#A6A197" font-family="monospace" font-size="11">1. Laporan Keuangan 2024</text>
+  <text x="872" y="486" fill="#A6A197" font-family="monospace" font-size="11">   7 BUMN Terkonsolidasi</text>
+  <text x="872" y="508" fill="#A6A197" font-family="monospace" font-size="11">2. UU No. 1 Tahun 2025</text>
+  <text x="872" y="526" fill="#A6A197" font-family="monospace" font-size="11">3. Rilis Setoran Dividen</text>
+  <text x="872" y="544" fill="#A6A197" font-family="monospace" font-size="11">   Kementerian BUMN 2024</text>
+
+  <text x="872" y="584" fill="#6E6A63" font-family="monospace" font-size="10">BONGKAR DANANTARA // DATA DESK</text>
+</svg>

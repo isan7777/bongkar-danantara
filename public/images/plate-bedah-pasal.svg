@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <rect width="1200" height="675" fill="#181715"/>
+  <rect x="44" y="38" width="1112" height="36" fill="#23221F" stroke="#3D3B36"/>
+  <rect x="44" y="38" width="14" height="36" fill="#9E1B1B"/>
+  <text x="74" y="61" fill="#F7F6F2" font-family="monospace" font-size="13" letter-spacing="1.8">ARSIP VISUAL 03 // BEDAH PASAL KONTROVERSIAL UU NO. 1/2025 &amp; DINAMIKA UU NO. 16/2025</text>
+
+  <!-- 4 Statutory Cards -->
+  <rect x="44" y="106" width="540" height="236" fill="#21201D" stroke="#9E1B1B" stroke-width="1.5"/>
+  <text x="68" y="138" fill="#9E1B1B" font-family="monospace" font-size="12" font-weight="700">PASAL 3H AYAT (2) &amp; PASAL 4B — UU NO. 1/2025</text>
+  <text x="68" y="172" fill="#F7F6F2" font-family="serif" font-size="23" font-weight="700">Pemisahan Status Kerugian</text>
+  <line x1="68" y1="190" x2="556" y2="190" stroke="#3D3B36"/>
+  <text x="68" y="220" fill="#D8D4CB" font-family="sans-serif" font-size="14">Keuntungan atau kerugian Danantara dan BUMN dalam</text>
+  <text x="68" y="242" fill="#D8D4CB" font-family="sans-serif" font-size="14">menjalankan investasi ditetapkan sebagai keuntungan</text>
+  <text x="68" y="264" fill="#D8D4CB" font-family="sans-serif" font-size="14">atau kerugian badan/BUMN, bukan kerugian negara.</text>
+  <rect x="68" y="290" width="224" height="28" fill="#9E1B1B"/>
+  <text x="80" y="309" fill="#FFFFFF" font-family="monospace" font-size="11" font-weight="700">PERDEBATAN: REZIM TIPIKOR</text>
+
+  <rect x="616" y="106" width="540" height="236" fill="#21201D" stroke="#52504A" stroke-width="1.5"/>
+  <text x="640" y="138" fill="#E8E4DC" font-family="monospace" font-size="12" font-weight="700">PASAL 3X AYAT (1), PASAL 9G &amp; PASAL 87(5)</text>
+  <text x="640" y="172" fill="#F7F6F2" font-family="serif" font-size="23" font-weight="700">Status Bukan Penyelenggara Negara</text>
+  <line x1="640" y1="190" x2="1128" y2="190" stroke="#3D3B36"/>
+  <text x="640" y="220" fill="#D8D4CB" font-family="sans-serif" font-size="14">Organ dan pegawai Danantara serta Direksi/Komisaris</text>
+  <text x="640" y="242" fill="#D8D4CB" font-family="sans-serif" font-size="14">BUMN dinyatakan bukan penyelenggara negara dalam</text>
+  <text x="640" y="264" fill="#D8D4CB" font-family="sans-serif" font-size="14">rumusan UU 1/2025, memicu gugatan uji materi di MK.</text>
+  <rect x="640" y="290" width="256" height="28" fill="#163A5F"/>
+  <text x="652" y="309" fill="#FFFFFF" font-family="monospace" font-size="11" font-weight="700">DISOROT: LHKPN &amp; GRATIFIKASI</text>
+
+  <!-- Bottom panel: Judicial Review & UU 16/2025 -->
+  <rect x="44" y="376" width="1112" height="248" fill="#121210" stroke="#3D3B36"/>
+  <text x="72" y="414" fill="#A6A197" font-family="monospace" font-size="12" letter-spacing="1.5">JEJAK KONSTITUSIONAL &amp; REVISI BERUNTUN (2025)</text>
+  <line x1="72" y1="432" x2="1128" y2="432" stroke="#2C2B27"/>
+
+  <g font-family="monospace">
+    <circle cx="96" cy="480" r="8" fill="#9E1B1B"/>
+    <text x="118" y="476" fill="#F7F6F2" font-size="13" font-weight="700">24 FEB 2025 — UU NO. 1/2025 DIUNDANGKAN</text>
+    <text x="118" y="498" fill="#A6A197" font-family="sans-serif" font-size="13">Dasar hukum kelahiran BPI Danantara beserta PP No. 10/2025 dan Keppres No. 30/2025.</text>
+
+    <circle cx="96" cy="536" r="8" fill="#D8D4CB"/>
+    <text x="118" y="532" fill="#F7F6F2" font-size="13" font-weight="700">06 OKT 2025 — UU NO. 16/2025 (PERUBAHAN KEEMPAT UU BUMN)</text>
+    <text x="118" y="554" fill="#A6A197" font-family="sans-serif" font-size="13">Memisahkan regulator (BP BUMN) dari operator (Danantara) hanya 7 bulan setelah UU 1/2025 berlaku.</text>
+
+    <circle cx="96" cy="592" r="8" fill="#163A5F"/>
+    <text x="118" y="588" fill="#F7F6F2" font-size="13" font-weight="700">30 OKT 2025 — PUTUSAN MK (PERKARA 38, 43, 44, 80/PUU-XXIII/2025)</text>
+    <text x="118" y="610" fill="#A6A197" font-family="sans-serif" font-size="13">Permohonan uji materi dinyatakan tidak dapat diterima karena kehilangan objek pascarevisi UU 16/2025.</text>
+  </g>
+</svg>
